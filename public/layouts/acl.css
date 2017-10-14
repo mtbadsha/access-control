@@ -1,0 +1,11 @@
+.acl_heading_right{
+    float: right;
+}
+
+.acl_heading_left{
+    float: left; font-weight: bold; color:blue;
+}
+
+.acl_page_header{
+    font-size: 18px;
+}

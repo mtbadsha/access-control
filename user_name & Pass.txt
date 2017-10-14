@@ -1,0 +1,6 @@
+admin
+	admin@admin.com - qwerty
+
+User
+	bfkabir@grameenphone.com - 234567
+	fuad.h@grammeenphone.com - 123456
